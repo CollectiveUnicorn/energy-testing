@@ -1,0 +1,6 @@
+scipy<1.13
+numpy
+gensim
+fasttext
+transformers
+torch

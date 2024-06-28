@@ -1,0 +1,6 @@
+archive.zip
+.venv
+GoogleNews-vectors-negative300
+.DS_Store
+.idea/
+__pycache__
